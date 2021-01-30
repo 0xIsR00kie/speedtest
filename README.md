@@ -11,4 +11,4 @@ chmod a+x speedtest.sh
 sudo ./speedtest.sh
 ```
 
-![./images/1.png](结果)
+![结果图片](./images/1.png)
